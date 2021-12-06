@@ -377,6 +377,12 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>delete</fullName>
+        <active>true</active>
+        <errorConditionFormula>true</errorConditionFormula>
+        <errorMessage>nope</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>GoogleMaps</fullName>
         <availability>online</availability>
