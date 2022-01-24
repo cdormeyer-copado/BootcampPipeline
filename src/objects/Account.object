@@ -322,6 +322,15 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Compliance__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>COMPLIANCE description</description>
+        <externalId>false</externalId>
+        <label>Test Compliance</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
