@@ -324,7 +324,7 @@
     <fields>
         <fullName>Test_Compliance__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>COMPLIANCE description</description>
+        <description>tCOMPLIANCE description</description>
         <externalId>false</externalId>
         <label>Test Compliance</label>
         <trackFeedHistory>false</trackFeedHistory>
