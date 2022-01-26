@@ -226,7 +226,7 @@
     <fields>
         <fullName>Case_Compliance__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>COMPLIANCE</description>
+        <description>COMPLIANCE NEW DESCRIPTION</description>
         <externalId>false</externalId>
         <label>Case Compliance</label>
         <trackFeedHistory>false</trackFeedHistory>
