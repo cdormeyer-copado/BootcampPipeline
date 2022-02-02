@@ -3,6 +3,7 @@ public class AAAConflict{
         
     /** I am a comment and merged**/
     /**JuliaGuglie Validation Merge Test**/
+    /**Test2**/
         
         for(Integer i = 0; i<10; i++){
             List<User> myList = [SELECT Id FROM User ORDER BY LastName ASC LIMIT 1];
