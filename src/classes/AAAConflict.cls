@@ -2,6 +2,9 @@ public class AAAConflict{
     public static Decimal countPlusOne(Decimal d){
         
     /** I am a comment and merged**/
+    //CommentLineNew + more comments same line and org TEST TEST3
+
+BREAK DEPLOYMENT
         
         for(Integer i = 0; i<10; i++){
             List<User> myList = [SELECT Id FROM User ORDER BY LastName ASC LIMIT 1];
